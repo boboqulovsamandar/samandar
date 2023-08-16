@@ -1,0 +1,16 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+   background: rgb(60, 59, 59);
+}
+.container{
+   margin: 200px;
+   padding: 12px;
+   text-align: center;
+}
+.img{
+   text-align: center;
+}
